@@ -1,4 +1,5 @@
 {
+  "name": "server",
   "devDependencies": {
     "@swc/jest": "^0.2.20",
     "@types/cors": "^2.8.12",
